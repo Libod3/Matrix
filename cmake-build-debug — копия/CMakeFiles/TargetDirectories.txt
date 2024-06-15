@@ -1,0 +1,3 @@
+/Users/libod/CLionProjects/ooc_matrix/cmake-build-debug/CMakeFiles/ooc_matrix.dir
+/Users/libod/CLionProjects/ooc_matrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/libod/CLionProjects/ooc_matrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
